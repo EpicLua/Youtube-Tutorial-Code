@@ -1,0 +1,2 @@
+Durch __init__.py kann man verzeichnis übergreifend auf die module zugreiffen
+und dotz dann die einzelnen inhalte nutzen im main
