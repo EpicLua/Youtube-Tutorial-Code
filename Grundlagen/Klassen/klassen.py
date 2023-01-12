@@ -10,4 +10,4 @@ class User:
     
 user_daten = User("John", 19, "john_213@mail.com") # ininzialisirung und anlegen
 # des objekts user_daten aus der Klasse User
-print(user_daten.get_data) # ruft methode auf und printet den return
+print(user_daten.get_data()) # ruft methode auf und printet den return
