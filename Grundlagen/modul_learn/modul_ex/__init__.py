@@ -1,0 +1,1 @@
+from .modul_2 import say_name
